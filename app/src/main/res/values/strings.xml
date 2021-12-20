@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TaskManager0.1</string>
+    <string name="current_tasks">Текущие задачи</string>
+    <string name="finished_tasks">Завершенные задачи</string>
+    <string name="new_task">Новая задача</string>
+    <string name="delete">удалить</string>
+    <string name="cancel">назад</string>
+    <string name="apply">применить</string>
+    <string name="task_name">Название задачи:</string>
+    <string name="task_description">Описание задачи:</string>
+    <string name="is_task_finished">задача завершена</string>
+    <string name="current_tasks_not_found">Текущих задач пока нет</string>
+    <string name="finished_tasks_not_found">Завершенных задач еще нет</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
